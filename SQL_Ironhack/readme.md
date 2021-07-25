@@ -1,5 +1,6 @@
 # SQL
-Week 3 of the Data Analytics Bootcamp Ironhack.
+Week 3 of the Data Analytics Bootcamp Ironhack.</br>
+Hands-on tasks at classes and labs.
 
 ### Day 1 - SQL Intro
 Sakila database of movie rentals
