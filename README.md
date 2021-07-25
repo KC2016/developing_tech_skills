@@ -8,7 +8,6 @@ tutorials, exercises, practicing
 - ML_twitch_teomewhy
 - Python_AutomatetheboringStuffwithPython
 - Python_Data_alura-imersao_dados
-- Python_Datacamp-ConstructiongChatbotsInPython
 - Python_numpy_pandas_Ironhack_week1
 - Python_PythonForDataScience_Dataquest
 - Python_twitch_teomewhy
