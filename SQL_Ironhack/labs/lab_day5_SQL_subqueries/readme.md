@@ -1,10 +1,10 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+## day 5
 
-# Lab | SQL Subqueries
+#### Lab | SQL Subqueries
 
-In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals. Create appropriate joins wherever necessary. 
+In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals. Create appropriate joins wherever necessary.
 
-### Instructions
+#### Instructions
 
 1. How many copies of the film _Hunchback Impossible_ exist in the inventory system?
 2. List all films whose length is longer than the average of all the films.
