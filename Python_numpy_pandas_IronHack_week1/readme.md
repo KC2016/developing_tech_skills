@@ -1,103 +1,43 @@
 # Data Analysis with Python
 week 1 of the Ironhack Bootcamp
 
-### Healthcare
-Definitions
+To see the definitions of the variables, click [here](https://github.com/KC2016/developing_tech_skills/blob/main/Python_numpy_pandas_IronHack_week1/day2-cust_analysis1/class/health_care/healthcare%20for%20all%20column%20definitions.docx)
 
-The data is available in the unit4.csv document in the folder. Below you will find the description of the features used in the data.
+## Project : Wrangling and messy data
+Ironhack Project 1, Baby Yoda Group, 29 March 2021
 
-Column	Description
-
-STATE	State abbreviation (a nominal/symbolic field)
-
-PVASTATE	EPVA State or PVA State - Indicates whether the donor lives in a state served by the organization's EPVA chapter (P = PVA State, E = EPVA State (Northeastern US))
-
-DOB	Date of birth (YYMM, Year/Month format.)
-
-RECP3	P3 File Flag (_ = Not a P3 Record, X = Donor has given to PVA's P3 program
-
-MDMAUD	The Major Donor Matrix code <sup>*</sup>
-
-GENDER	Gender of the donor
-
-DOMAIN	Domain/Cluster code. A nominal or symbolic field. <sup>**</sup>
-
-HOMEOWNR	Home Owner Flag (H = Homeowner; U = Unknown)
-
-INCOME	Household Income
-
-HV1	Median Home Value in hundreds
-
-HV2	Average Home Value in hundreds
-
-HV3	Median Contract Rent in hundreds
-
-HV4	Average Contract Rent in hundreds 'IC1'
-
-IC1	Median Household Income in hundreds
-
-IC2	Median Family Income in hundreds
-
-IC3	Average Household Income in hundreds
-
-IC4	Average Family Income in hundreds
-
-IC5	Per Capita Income
-
-VETERANS	Veterans (Y/N)
-
-RFA_2	Donor's RFA status as of 97NK promotion date
-
-CARDPROM	Lifetime number of card promotions received to date. Card promotions are promotion type FS, GK, TK, SK, NK, XK, UF, UU.
-
-MAXADATE	Date of the most recent promotion received (in YYMM, Year/Month format)
-
-NUMPROM	Lifetime number of promotions received to date
-
-CARDPM12	Number of card promotions received in the last 12 months (in terms of calendar months translates into 9603-9702)
-
-NUMPRM12	Number of promotions received in the last 12 months (in terms of calendar months translates into 9603-9702)
-
-NGIFTALL	Number of lifetime gifts to date
-
-TIMELAG	Number of months between first and second gift neighborhood demographics
-
-AGE901	Median Age of Population
-
-AGE902	Median Age of Adults 18 or Older
-
-AGE903	Median Age of Adults 25 or Older
-
-AVGGIFT	(often the thing we want to predict) the size of the average gift given in dollars – tip, HINT : format to 0 dp
+Team: Karina | Lilla | Neil
 
 
+We set out to answer three main questions:
+-	How many job ads fit the Data Analyst skillset?
+-	Which are the top employers by number of job ads?
+-	What is the number of job ads which has salary information?
 
+Process:
 
+Data cleaning/wrangling
+ - created columns which validates if our list of keywords are present in the description
+ - created filter for top employers
+ - created new columns which validates if the description has salary information or not
 
+Data visualisations
+ - created visuals to answer the questions we had
 
+Main findings:
+- The top five locations for data analyst positions are:
+1.Seatlle, 2 New York, 3. Cambridge, 4. Boston, 5. SanFrancisco
+- The top employers by number of vacancies:
+1. Amazon, 2. Ball Aerospace, 3. Microsoft, 4. Google, 5. NYU Langone Health
+- Half of the job ads have salary information
+- More than twice of the job ads are actually looking for a Data Analyst than what they state in the Position Title
 
+Reflection:
 
+The team worked amicably, we thought we planned well but ran out of time to achieve all our aims. To meet the timeline, we rescoped the requirements.
 
+Scraping: it was difficult to retrieve the key words in the description column.
 
-Complex strings and definitions
+We may have missed some data because the same tasks, skills, positions are expressed differently.
 
-RFA –
-the codes describe frequency and amount of giving for donors who have given a $100+ gift at any time in their giving history. An RFA (recency/frequency/monetary) field.
-
-The (current) concatenated version is a nominal or symbolic field. The individual bytes could separately be used as fields and refer to the following:
-
-•	First byte: Recency of Giving C=Current Donor L=Lapsed Donor I=Inactive Donor D=Dormant Donor
-
-•	2nd byte: Frequency of Giving 1=One gift in the period of recency 2=Two-Four gifts in the period of recency 5=Five+ gifts in the period of recency
-
-•	3rd byte: Amount of Giving L=Less than $100(Low Dollar) C=$100-499(Core) M=$500-999(Major) T=$1,000+(Top)
-
-•	4th byte: Blank/meaningless/filler 'X' indicates that the donor is not a major donor.
-
-
-Domain -
-
-•	1st byte = Urbanicity level of the donor's neighbourhood U=Urban C=City S=Suburban T=Town R=Rural
-
-•	2nd byte = Socio-Economic status of the neighbourhood 1 = Highest SES 2 = Average SES 3 = Lowest SES (except for Urban communities, where 1 = Highest SES, 2 = Above average SES, 3 = Below average SES, 4 = Lowest SES.)
 
