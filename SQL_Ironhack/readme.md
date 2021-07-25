@@ -4,7 +4,7 @@ Week 3 of the Data Analytics Bootcamp Ironhack.
 ### Day 1 - SQL Intro
 - [class](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/classes/day1-SQL-sakila)
 
-- [lab](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/labs/lab_day1-SQL-sakila)
+- [lab](https://github.com/KC2016/developing_tech_skills/tree/main/SQL_Ironhack/labs/lab_day1-SQL-sakila)
 
 Sakila database of movie rentals
 ![Sakila DBschema](images/sakila_diagram.png)
@@ -13,11 +13,11 @@ Sakila database of movie rentals
 ### Day 2 - queries
 - [class](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/classes/day2_SQL)
 
-- [lab](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/labs/lab_day2_SQL)
+- [lab](https://github.com/KC2016/developing_tech_skills/tree/main/SQL_Ironhack/labs/lab_day2_SQL)
 
 
 ### Day 3 - agg, where, having
-- [class](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/classes/day3-SQL-aggs_where_having)
+- [class](https://github.com/KC2016/developing_tech_skills/tree/main/SQL_Ironhack/labs/lab_day3_aggs_where_having)
 
 - [lab](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/labs/lab_day3_aggs_where_having)
 
@@ -25,7 +25,7 @@ Sakila database of movie rentals
 
 - [class](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/classes/day4-sql_joins)
 
-- [lab](https://github.com/KC2016/SQL-queries/tree/main/Ironhack/labs/lab_day4_SQL_joins)
+- [lab](https://github.com/KC2016/developing_tech_skills/tree/main/SQL_Ironhack/labs/lab_day4_SQL_joins)
 
 
 
