@@ -1,5 +1,5 @@
 # developing_tech_skills
-tutorials, exercises, practicing
+Hands-on tasks from tutorials, exercises, bootcamp
 
 - Artificial Intelligence Course
 - Chatbots_Learning
