@@ -1,7 +1,7 @@
 
-| | |
+| Book | Websites |
 |:-------------------------:|:-------------------------:|
-|<img width="2550" src="images/bookBCWP.png"> | <img width="1600" src="images/datacamp.png"><img width="1600" src="images/Sololearn_logo.jpeg">|
+|<img width="1050" src="images/bookBCWP.png"> | <img width="600" src="images/datacamp.png">  <img width="600" src="images/Sololearn_logo.jpeg">|
 
 
 
