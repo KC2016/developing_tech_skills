@@ -1,4 +1,4 @@
-# developing_tech_skills
+# developing_tech_skills :nerd_face:
 Hands-on tasks from tutorials, exercises, bootcamp
 
 - Artificial Intelligence Course
