@@ -2,11 +2,9 @@
 ## Learning to build Chatbots
 ### A sandbox with examples of chatbots tutorials and book.
 
-
-| Book | Websites |
-|:-------------------------:|:-------------------------:|
-|<img width="200" src="images/bookBCWP.png"> | <img height="100" src="images/datacamp.png">  <img height="100" src="images/Sololearn_logo.jpeg">|
-
+<img width="200" src="images/bookBCWP.png"></br>
+<img width="200" src="images/datacamp.png">  </br>
+<img width="200" src="images/Sololearn_logo.jpeg"></br>
 
 
 
