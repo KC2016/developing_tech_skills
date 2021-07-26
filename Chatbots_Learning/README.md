@@ -1,13 +1,13 @@
 
-| Book | Websites |
-|:-------------------------:|:-------------------------:|
-|<img width="200" src="images/bookBCWP.png"> | <img width="350" src="images/datacamp.png">  <img width="350" src="images/Sololearn_logo.jpeg">|
-
-
-
-
 ## Learning to build Chatbots
 ### A sandbox with examples of chatbots tutorials and book.
+
+
+| Book | Websites |
+|:-------------------------:|:-------------------------:|
+|<img width="200" src="images/bookBCWP.png"> | <img height="100" src="images/datacamp.png">  <img height="100" src="images/Sololearn_logo.jpeg">|
+
+
 
 
 ### Table of Contents
