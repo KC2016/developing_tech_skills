@@ -1,6 +1,10 @@
-<p align="center">
-<img src = "images/bookBCWP.png" width=200>  <br/> 
-<p>
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="2550" src="images/bookBCWP.png"> | <img width="1600" src="images/datacamp.png"><img width="1600" src="images/Sololearn_logo.jpeg">|
+
+
+
 
 ## Learning to build Chatbots
 ### A sandbox with examples of chatbots tutorials and book.
@@ -21,7 +25,7 @@
 - Google colab
 
 ## Sources
-- Book: An Introduction to Statistical Learning. Gareth James, Daniela Witten, Trevor Hastie, Robert<br/> 
+- Book: An Introduction to Statistical Learning. Gareth James, Daniela Witten, Trevor Hastie, Robert<br/>
 - [https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=1](https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=1)
 - [https://code.sololearn.com/chAYGq7gEQrS/?ref=app#py](https://code.sololearn.com/chAYGq7gEQrS/?ref=app#py)<br/>
 - [https://www.sololearn.com/Discuss/2133553/python-help](https://www.sololearn.com/Discuss/2133553/python-help)<br/>
