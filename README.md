@@ -18,3 +18,4 @@ Hands-on tasks from tutorials, exercises, bootcamp
 - SQL_Ironhack_week3
 - SQL_V2-TeoCalvo
 - SQL_Udemy_SQLmasterclass
+- Tableau_Udacity_WWC
