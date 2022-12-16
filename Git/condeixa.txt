@@ -1,0 +1,5 @@
+#!/bin/bash
+sentence1
+sentence2
+
+quit0
