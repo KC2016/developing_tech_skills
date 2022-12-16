@@ -1,4 +1,4 @@
-git log --oneline
+rm git log --oneline
 
 git reset HEAD~1
 
