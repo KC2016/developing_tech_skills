@@ -1,4 +1,6 @@
-rm git log --oneline
+rm file
+
+git log --oneline
 
 git reset HEAD~1 # unstage
 
