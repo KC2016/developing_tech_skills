@@ -14,7 +14,8 @@ Hands-on tasks from tutorials, exercises, bootcamp
 - Python_numpy_pandas_Ironhack_week1
 - Python_PythonForDataScience_Dataquest
 - Python_twitch_teomewhy
-- SQL_CS50-Fal2020
+- SQL_CS50-Fall2020
 - SQL_Ironhack_week3
 - SQL_V2-TeoCalvo
 - SQL_Udemy_SQLmasterclass
+- Tableau_Udacity_WWC
